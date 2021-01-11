@@ -1,0 +1,135 @@
+A3KMH1	reviewed	von Willebrand factor A domain-containing protein 8	9606	Homo sapiens	1905	IPR003593	439..615,773..905
+A6NMB9	reviewed	Fidgetin-like protein 2	9606	Homo sapiens	653	IPR003593	424..559
+O14678	reviewed	Lysosomal cobalamin transporter ABCD4	9606	Homo sapiens	606	IPR003593	413..604
+O15315	reviewed	DNA repair protein RAD51 homolog 2	9606	Homo sapiens	384	IPR003593	100..277
+O15381	reviewed	Nuclear valosin-containing protein-like	9606	Homo sapiens	856	IPR003593	297..436,614..750
+O15438	reviewed	Canalicular multispecific organic anion transporter 2	9606	Homo sapiens	1527	IPR003593	653..828,1315..1500
+O15439	reviewed	Multidrug resistance-associated protein 4	9606	Homo sapiens	1325	IPR003593	437..601,1067..1251
+O15440	reviewed	Multidrug resistance-associated protein 5	9606	Homo sapiens	1437	IPR003593	587..760,1219..1404
+O43929	reviewed	Origin recognition complex subunit 4	9606	Homo sapiens	436	IPR003593	59..202
+O43933	reviewed	Peroxisome biogenesis factor 1	9606	Homo sapiens	1283	IPR003593	591..741,873..1009
+O60706	reviewed	ATP-binding cassette sub-family C member 9	9606	Homo sapiens	1549	IPR003593	697..905,1338..1531
+O75027	reviewed	ATP-binding cassette sub-family B member 7, mitochondrial	9606	Homo sapiens	752	IPR003593	497..683
+O75351	reviewed	Vacuolar protein sorting-associated protein 4B	9606	Homo sapiens	444	IPR003593	166..302
+O75449	reviewed	Katanin p60 ATPase-containing subunit A1	9606	Homo sapiens	491	IPR003593	241..383
+O75771	reviewed	DNA repair protein RAD51 homolog 4	9606	Homo sapiens	328	IPR003593	99..274
+O76031	reviewed	ATP-dependent Clp protease ATP-binding subunit clpX-like, mitochondrial	9606	Homo sapiens	633	IPR003593	285..436
+O94911	reviewed	ATP-binding cassette sub-family A member 8	9606	Homo sapiens	1581	IPR003593	508..652,1275..1455
+O95255	reviewed	Multidrug resistance-associated protein 6	9606	Homo sapiens	1503	IPR003593	655..845,1291..1478
+O95342	reviewed	Bile salt export pump	9606	Homo sapiens	1321	IPR003593	447..633,1105..1299
+O95477	reviewed	Phospholipid-transporting ATPase ABCA1	9606	Homo sapiens	2261	IPR003593	925..1122,1938..2123
+P06576	reviewed	ATP synthase subunit beta, mitochondrial	9606	Homo sapiens	529	IPR003593	198..382
+P08183	reviewed	ATP-dependent translocase ABCB1	9606	Homo sapiens	1280	IPR003593	419..611,1062..1250
+P08240	reviewed	Signal recognition particle receptor subunit alpha	9606	Homo sapiens	638	IPR003593	417..570
+P13569	reviewed	Cystic fibrosis transmembrane conductance regulator	9606	Homo sapiens	1480	IPR003593	450..639,1236..1418
+P17980	reviewed	26S proteasome regulatory subunit 6A	9606	Homo sapiens	439	IPR003593	219..358
+P21439	reviewed	Phosphatidylcholine translocator ABCB4	9606	Homo sapiens	1286	IPR003593	421..613,1061..1256
+P25205	reviewed	DNA replication licensing factor MCM3	9606	Homo sapiens	808	IPR003593	337..490
+P28288	reviewed	ATP-binding cassette sub-family D member 3	9606	Homo sapiens	659	IPR003593	465..640
+P33527	reviewed	Multidrug resistance-associated protein 1	9606	Homo sapiens	1531	IPR003593	670..861,1319..1504
+P33897	reviewed	ATP-binding cassette sub-family D member 1	9606	Homo sapiens	745	IPR003593	499..703
+P33993	reviewed	DNA replication licensing factor MCM7	9606	Homo sapiens	719	IPR003593	373..526
+P35249	reviewed	Replication factor C subunit 4	9606	Homo sapiens	363	IPR003593	70..202
+P35250	reviewed	Replication factor C subunit 2	9606	Homo sapiens	354	IPR003593	68..194
+P35251	reviewed	Replication factor C subunit 1	9606	Homo sapiens	1148	IPR003593	643..778
+P35998	reviewed	26S proteasome regulatory subunit 7	9606	Homo sapiens	433	IPR003593	208..347
+P36776	reviewed	Lon protease homolog, mitochondrial	9606	Homo sapiens	959	IPR003593	515..660
+P38935	reviewed	DNA-binding protein SMUBP-2	9606	Homo sapiens	993	IPR003593	206..375
+P40937	reviewed	Replication factor C subunit 5	9606	Homo sapiens	340	IPR003593	52..180
+P40938	reviewed	Replication factor C subunit 3	9606	Homo sapiens	356	IPR003593	34..190
+P43686	reviewed	26S proteasome regulatory subunit 6B	9606	Homo sapiens	418	IPR003593	198..337
+P45844	reviewed	ATP-binding cassette sub-family G member 1	9606	Homo sapiens	678	IPR003593	110..293
+P46459	reviewed	Vesicle-fusing ATPase	9606	Homo sapiens	744	IPR003593	252..399,535..671
+P53384	reviewed	Cytosolic Fe-S cluster assembly factor NUBP1	9606	Homo sapiens	320	IPR003593	54..210
+P55072	reviewed	Transitional endoplasmic reticulum ATPase	9606	Homo sapiens	806	IPR003593	237..373,510..649
+P61011	reviewed	Signal recognition particle 54 kDa protein	9606	Homo sapiens	504	IPR003593	100..277
+P61221	reviewed	ATP-binding cassette sub-family E member 1	9606	Homo sapiens	599	IPR003593	102..293,371..539
+P62191	reviewed	26S proteasome regulatory subunit 4	9606	Homo sapiens	440	IPR003593	218..357
+P62195	reviewed	26S proteasome regulatory subunit 8	9606	Homo sapiens	406	IPR003593	182..321
+P62333	reviewed	26S proteasome regulatory subunit 10B	9606	Homo sapiens	389	IPR003593	166..305
+P78363	reviewed	Retinal-specific phospholipid-transporting ATPase ABCA4	9606	Homo sapiens	2273	IPR003593	955..1145,1964..2148
+Q03518	reviewed	Antigen peptide transporter 1	9606	Homo sapiens	808	IPR003593	590..794
+Q03519	reviewed	Antigen peptide transporter 2	9606	Homo sapiens	686	IPR003593	495..678
+Q06609	reviewed	DNA repair protein RAD51 homolog 1	9606	Homo sapiens	339	IPR003593	119..306
+Q09428	reviewed	ATP-binding cassette sub-family C member 8	9606	Homo sapiens	1581	IPR003593	705..913,1370..1563
+Q13075	reviewed	Baculoviral IAP repeat-containing protein 1	9606	Homo sapiens	1403	IPR003593	462..603
+Q13415	reviewed	Origin recognition complex subunit 1	9606	Homo sapiens	861	IPR003593	526..677
+Q13608	reviewed	Peroxisome assembly factor 2	9606	Homo sapiens	980	IPR003593	462..597,736..874
+Q14204	reviewed	Cytoplasmic dynein 1 heavy chain 1	9606	Homo sapiens	4646	IPR003593	1901..2045,2216..2367,2587..2737,2929..3095
+Q14565	reviewed	Meiotic recombination protein DMC1/LIM15 homolog	9606	Homo sapiens	340	IPR003593	118..307
+Q15645	reviewed	Pachytene checkpoint protein 2 homolog	9606	Homo sapiens	432	IPR003593	171..323
+Q2M3G0	reviewed	ATP-binding cassette sub-family B member 5	9606	Homo sapiens	1257	IPR003593	413..598,1042..1252
+Q5HY92	reviewed	Fidgetin	9606	Homo sapiens	759	IPR003593	518..654
+Q5JU69	reviewed	Torsin-2A	9606	Homo sapiens	321	IPR003593	85..227
+Q5T2N8	reviewed	ATPase family AAA domain-containing protein 3C	9606	Homo sapiens	411	IPR003593	169..302
+Q5T3U5	reviewed	Multidrug resistance-associated protein 7	9606	Homo sapiens	1492	IPR003593	625..809,1272..1456
+Q5T9A4	reviewed	ATPase family AAA domain-containing protein 3B	9606	Homo sapiens	648	IPR003593	344..477
+Q5TCS8	reviewed	Adenylate kinase 9	9606	Homo sapiens	1911	IPR003593	29..241,990..1333,1410..1577
+Q63HN8	reviewed	E3 ubiquitin-protein ligase RNF213	9606	Homo sapiens	5207	IPR003593	2412..2557,2761..2910
+Q6PIW4	reviewed	Fidgetin-like protein 1	9606	Homo sapiens	674	IPR003593	433..569
+Q6PL18	reviewed	ATPase family AAA domain-containing protein 2	9606	Homo sapiens	1390	IPR003593	459..600
+Q6ZR08	reviewed	Dynein heavy chain 12, axonemal	9606	Homo sapiens	3092	IPR003593	1245..1384,1884..2053
+Q86UK0	reviewed	ATP-binding cassette sub-family A member 12	9606	Homo sapiens	2595	IPR003593	1370..1554,2282..2467
+Q86UQ4	reviewed	ATP-binding cassette sub-family A member 13	9606	Homo sapiens	5058	IPR003593	3867..4051,4746..4934
+Q86WA8	reviewed	Lon protease homolog 2, peroxisomal	9606	Homo sapiens	852	IPR003593	367..512
+Q8IUA7	reviewed	ATP-binding cassette sub-family A member 9	9606	Homo sapiens	1624	IPR003593	509..693,1318..1498
+Q8IVF4	reviewed	Dynein heavy chain 10, axonemal	9606	Homo sapiens	4471	IPR003593	1826..1962,2105..2241,2447..2600
+Q8IVL0	reviewed	Neuron navigator 3	9606	Homo sapiens	2385	IPR003593	2048..2202
+Q8IVL1	reviewed	Neuron navigator 2	9606	Homo sapiens	2488	IPR003593	2149..2303
+Q8IYT4	reviewed	Katanin p60 ATPase-containing subunit A-like 2	9606	Homo sapiens	538	IPR003593	286..424
+Q8IZY2	reviewed	Phospholipid-transporting ATPase ABCA7	9606	Homo sapiens	2146	IPR003593	833..1014,1819..2004
+Q8N139	reviewed	ATP-binding cassette sub-family A member 6	9606	Homo sapiens	1617	IPR003593	506..690,1312..1490
+Q8N3C0	reviewed	Activating signal cointegrator 1 complex subunit 3	9606	Homo sapiens	2202	IPR003593	491..685,1341..1491
+Q8NB90	reviewed	ATPase family protein 2 homolog	9606	Homo sapiens	893	IPR003593	386..525,660..798
+Q8NBU5	reviewed	ATPase family AAA domain-containing protein 1	9606	Homo sapiens	361	IPR003593	125..261
+Q8NCM8	reviewed	Cytoplasmic dynein 2 heavy chain 1	9606	Homo sapiens	4307	IPR003593	1684..1830,1971..2127,2283..2431
+Q8NE71	reviewed	ATP-binding cassette sub-family F member 1	9606	Homo sapiens	845	IPR003593	328..532,650..815
+Q8NEY1	reviewed	Neuron navigator 1	9606	Homo sapiens	1877	IPR003593	1550..1704
+Q8TD57	reviewed	Dynein heavy chain 3, axonemal	9606	Homo sapiens	4116	IPR003593	1421..1560,2066..2213
+Q8TE73	reviewed	Dynein heavy chain 5, axonemal	9606	Homo sapiens	4624	IPR003593	1975..2111,2254..2409,2582..2780
+Q8WVB6	reviewed	Chromosome transmission fidelity protein 18 homolog	9606	Homo sapiens	975	IPR003593	366..524
+Q8WWZ4	reviewed	ATP-binding cassette sub-family A member 10	9606	Homo sapiens	1543	IPR003593	419..603,1231..1417
+Q8WWZ7	reviewed	ATP-binding cassette sub-family A member 5	9606	Homo sapiens	1642	IPR003593	506..691,1325..1512
+Q8WXX0	reviewed	Dynein heavy chain 7, axonemal	9606	Homo sapiens	4024	IPR003593	1320..1459,1968..2116
+Q92887	reviewed	Canalicular multispecific organic anion transporter 1	9606	Homo sapiens	1545	IPR003593	663..838,1326..1511
+Q96DT5	reviewed	Dynein heavy chain 11, axonemal	9606	Homo sapiens	4516	IPR003593	1888..2024,2166..2306,2502..2647,2847..2983
+Q96J65	reviewed	Multidrug resistance-associated protein 9	9606	Homo sapiens	1359	IPR003593	505..678,1146..1339
+Q96J66	reviewed	ATP-binding cassette sub-family C member 11	9606	Homo sapiens	1382	IPR003593	536..709,1167..1360
+Q96JB1	reviewed	Dynein heavy chain 8, axonemal	9606	Homo sapiens	4490	IPR003593	1841..1985,2122..2275,2448..2596
+Q96QE3	reviewed	ATPase family AAA domain-containing protein 5	9606	Homo sapiens	1844	IPR003593	1124..1359
+Q96S55	reviewed	ATPase WRNIP1	9606	Homo sapiens	665	IPR003593	260..380
+Q96TA2	reviewed	ATP-dependent zinc metalloprotease YME1L1	9606	Homo sapiens	773	IPR003593	371..508
+Q99741	reviewed	Cell division control protein 6 homolog	9606	Homo sapiens	560	IPR003593	193..333
+Q99758	reviewed	ATP-binding cassette sub-family A member 3	9606	Homo sapiens	1704	IPR003593	558..740,1408..1592
+Q9BSD7	reviewed	Cancer-related nucleoside-triphosphatase	9606	Homo sapiens	190	IPR003593	1..168
+Q9BVQ7	reviewed	Spermatogenesis-associated protein 5-like protein 1	9606	Homo sapiens	753	IPR003593	233..370,497..654
+Q9BW62	reviewed	Katanin p60 ATPase-containing subunit A-like 1	9606	Homo sapiens	490	IPR003593	240..382
+Q9BZC7	reviewed	ATP-binding cassette sub-family A member 2	9606	Homo sapiens	2435	IPR003593	1016..1198,2079..2264
+Q9C0G6	reviewed	Dynein heavy chain 6, axonemal	9606	Homo sapiens	4158	IPR003593	1464..1567,1745..1886,2088..2241,2439..2597
+Q9H078	reviewed	Caseinolytic peptidase B protein homolog	9606	Homo sapiens	707	IPR003593	373..527
+Q9H172	reviewed	ATP-binding cassette sub-family G member 4	9606	Homo sapiens	646	IPR003593	94..285
+Q9H222	reviewed	ATP-binding cassette sub-family G member 5	9606	Homo sapiens	651	IPR003593	78..270
+Q9HCN4	reviewed	GPN-loop GTPase 1	9606	Homo sapiens	374	IPR003593	18..182
+Q9NP58	reviewed	ATP-binding cassette sub-family B member 6, mitochondrial	9606	Homo sapiens	842	IPR003593	615..816
+Q9NP78	reviewed	ATP-binding cassette sub-family B member 9	9606	Homo sapiens	766	IPR003593	531..717
+Q9NRK6	reviewed	ATP-binding cassette sub-family B member 10, mitochondrial	9606	Homo sapiens	738	IPR003593	519..714
+Q9NU22	reviewed	Midasin	9606	Homo sapiens	5596	IPR003593	321..634,669..912,1076..1221,1382..1549,1745..1928,2058..2314
+Q9NUQ8	reviewed	ATP-binding cassette sub-family F member 3	9606	Homo sapiens	709	IPR003593	202..401,517..683
+Q9NUT2	reviewed	Mitochondrial potassium channel ATP-binding subunit	9606	Homo sapiens	735	IPR003593	499..686
+Q9NVI7	reviewed	ATPase family AAA domain-containing protein 3A	9606	Homo sapiens	634	IPR003593	392..525
+Q9NXH8	reviewed	Torsin-4A	9606	Homo sapiens	423	IPR003593	186..319
+Q9NXL9	reviewed	DNA helicase MCM9	9606	Homo sapiens	1143	IPR003593	344..493
+Q9NYC9	reviewed	Dynein heavy chain 9, axonemal	9606	Homo sapiens	4486	IPR003593	1865..2001,2143..2275,2470..2621,2817..2920
+Q9P225	reviewed	Dynein heavy chain 2, axonemal	9606	Homo sapiens	4427	IPR003593	1797..1933,2408..2555
+Q9UBJ2	reviewed	ATP-binding cassette sub-family D member 2	9606	Homo sapiens	740	IPR003593	503..689
+Q9UBP0	reviewed	Spastin	9606	Homo sapiens	616	IPR003593	374..510
+Q9UG63	reviewed	ATP-binding cassette sub-family F member 2	9606	Homo sapiens	623	IPR003593	110..303,422..590
+Q9UJA3	reviewed	DNA helicase MCM8	9606	Homo sapiens	840	IPR003593	446..597
+Q9ULI0	reviewed	ATPase family AAA domain-containing protein 2B	9606	Homo sapiens	1458	IPR003593	433..574
+Q9UN37	reviewed	Vacuolar protein sorting-associated protein 4A	9606	Homo sapiens	437	IPR003593	159..295
+Q9UNQ0	reviewed	Broad substrate specificity ATP-binding cassette transporter ABCG2	9606	Homo sapiens	655	IPR003593	72..270
+Q9UQ90	reviewed	Paraplegin	9606	Homo sapiens	795	IPR003593	341..481
+Q9Y230	reviewed	RuvB-like 2	9606	Homo sapiens	463	IPR003593	69..361
+Q9Y265	reviewed	RuvB-like 1	9606	Homo sapiens	456	IPR003593	62..365
+Q9Y276	reviewed	Mitochondrial chaperone BCS1	9606	Homo sapiens	419	IPR003593	222..357
+Q9Y4W6	reviewed	AFG3-like protein 2	9606	Homo sapiens	797	IPR003593	340..479
